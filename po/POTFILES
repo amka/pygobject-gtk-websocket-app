@@ -1,0 +1,7 @@
+data/com.github.tenderowl.spacebeam.desktop.in
+data/com.github.tenderowl.spacebeam.appdata.xml.in
+data/com.github.tenderowl.spacebeam.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+

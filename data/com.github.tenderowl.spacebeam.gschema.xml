@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="spacebeam">
+	<schema id="com.github.tenderowl.spacebeam" path="/com/github/tenderowl/spacebeam/">
+	</schema>
+</schemalist>
